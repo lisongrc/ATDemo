@@ -1,0 +1,20 @@
+PODS:
+  - HPGrowingTextView (1.1)
+  - MLLabel (1.10.5)
+
+DEPENDENCIES:
+  - HPGrowingTextView
+  - MLLabel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HPGrowingTextView
+    - MLLabel
+
+SPEC CHECKSUMS:
+  HPGrowingTextView: 88a716d97fb853bcb08a4a08e4727da17efc9b19
+  MLLabel: d76124055a2205e7f76878e62cd06ba925ba0c97
+
+PODFILE CHECKSUM: dfd4d9a609d7c8b9f84891614f0f3c35b081a840
+
+COCOAPODS: 1.5.2
